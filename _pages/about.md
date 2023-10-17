@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello,
 
-I am Ayoub, a first year PhD candidate at Inria in Scool team (previously SequeL) under the supervision of [Debabrota Basu](https://debabrota-basu.github.io/) and [Philippe Preux](https://philippe-preux.github.io/). test
+I am Ayoub, a first year PhD candidate at Inria in Scool team (previously SequeL) under the supervision of [Debabrota Basu](https://debabrota-basu.github.io/) and [Philippe Preux](https://philippe-preux.github.io/).
 
 My research interests are broad. Prior to  my PhD, I was a visiting research student at MILA, supervised by [Yoshua Bengio](https://yoshuabengio.org/), [Loubna Benabbou](https://scholar.google.com/citations?user=S8bzEmUAAAAJ&hl=en) and [Dianbo Liu](http://www.cogai4sci.com/), where I was working on enabling AI models to learn physics with no feedback in the context of a physicist (Navier-Stokes equations) by relaxing "physical" inductive bias, and how we can rigorously reduce uncertainty in chaotic (turbulent) regimes to learn space-time evolution of a dynamical system.
 Today, my research area is in the interdisciplinary field of Learning Theory, Fairness, Multi-armed Bandits, Reinforcement Learning Theory, Curriculum Learning and Sequential Decision Making . 

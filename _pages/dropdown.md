@@ -5,9 +5,9 @@ nav: true
 nav_order: 7
 dropdown: true
 children:
-    - title: publications
+    - title: RL theory
       permalink: /publications/
-    - title: divider
+    - title: Learning theory
     - title: projects
       permalink: /projects/
 ---

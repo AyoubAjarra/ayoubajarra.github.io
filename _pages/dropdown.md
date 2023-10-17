@@ -8,6 +8,6 @@ children:
     - title: RL theory
       permalink: /publications/
     - title: Learning theory
-    - title: projects
-      permalink: /projects/
+    - permalink: /publications/
+
 ---

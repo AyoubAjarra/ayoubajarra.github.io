@@ -3,15 +3,11 @@
     "name": "Ayoub Ajarra",
     "image": "ayoub_ajarra.jpg",
     "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://ayoubajarra.github.io/",
+    "summary": "A normal guy enchanted by the beauty of mathematics, willing to reveal that beauty from every complex problem",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "59650",
+      "city": "Lille-Villeneuve D'Ascq"
     },
     "profiles": [
       {

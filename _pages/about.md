@@ -18,8 +18,15 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hello,
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Ayoub a first year PhD candidate at Inria in Scool team (previously SequeL) under the supervision of [Debabrota Basu](https://debabrota-basu.github.io/) and [Philippe Preux](https://philippe-preux.github.io/).
+
+My research interests are broad. Prior to  my PhD, I was a visiting research student at MILA, supervised by [Yoshua Bengio](https://yoshuabengio.org/), [Loubna Benabbou](https://scholar.google.com/citations?user=S8bzEmUAAAAJ&hl=en) and [Dianbo Liu](http://www.cogai4sci.com/), where I was working on enabling AI models to learn physics with no feedback in the context of a physicist (Navier-Stokes equations) by relaxing "physical" inductive bias, and how we can rigorously reduce uncertainty in chaotic (turbulent) regimes to learn space-time evolution of a dynamical system.
+Today, my research area is in the interdisciplinary field of Learning Theory, Fairness, Multi-armed Bandits, Reinforcement Learning Theory, Curriculum Learning and Sequential Decision Making . 
+
+I am enchanted by the beauty of mathematics, physics and I enjoy coding, I learn everyday from experts and explore new methods and revolutionary approaches by staying update and being active on AI communities. I’m also passionate about innovation, using the next technology before anyone else has heard of it, and making crazy ideas turn into the best machine learning models based on rigorous approaches for impactful solutions in scientific communities such as climate science. I am an intern at MILA supervised by Yoshua Bengio, Loubna Benabbou and Dianbo Liu. 
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Reading groups
 nav: true
 nav_order: 7
 dropdown: true

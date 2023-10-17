@@ -20,13 +20,12 @@
   "work": [
     {
       "name": "MILA, Université de Montréal",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "position": "Visiting research student - Supervised by Yoshua Bengio and Loubna Benabbou",
+      "startDate": "2021-04-01",
+      "endDate": "2021-11-01",
+      "summary": " Studied the ability of ML models to predict space time evolution of a dynamical system (fluids) with almost no knowledge of a physicist. Developped a new approach based on Helmholtz theorem to reduce the representation -describing Rayleigh-Bénard instability, into a discrete one and study the interaction of the vortices represented by keypoints, then implemented a graph encoder-decoder to learn the space-time evolution of the discrete representation based on causal graphs.",
       "highlights": [
-        "Relativity"
+        "Space-time evolution, Physical inductive bias"
       ]
     }
   ],

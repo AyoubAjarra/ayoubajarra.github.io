@@ -27,7 +27,3 @@ Today, my research area is in the interdisciplinary field of Learning Theory, Fa
 
 I am enchanted by the beauty of mathematics, physics and I enjoy coding, I learn everyday from experts and explore new methods and revolutionary approaches by staying update and being active on AI communities. I’m also passionate about innovation, using the next technology before anyone else has heard of it, and making crazy ideas turn into the best machine learning models based on rigorous approaches for impactful solutions in scientific communities such as climate science. I am an intern at MILA supervised by Yoshua Bengio, Loubna Benabbou and Dianbo Liu. 
 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

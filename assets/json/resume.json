@@ -25,23 +25,19 @@
       "endDate": "2021-11-01",
       "summary": " Studied the ability of ML models to predict space time evolution of a dynamical system (fluids) with almost no knowledge of a physicist. Developped a new approach based on Helmholtz theorem to reduce the representation -describing Rayleigh-Bénard instability, into a discrete one and study the interaction of the vortices represented by keypoints, then implemented a graph encoder-decoder to learn the space-time evolution of the discrete representation based on causal graphs.",
       "highlights": [
-        "Space-time evolution, Physical inductive bias"
+        "Space-time evolution,SImulation, Deep learning for scientific discovery, Physical inductive bias, Causal graphs"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Scool (Inria) - Université de Lille",
+      "area": "Learning Theory, Fairness, Multi-armed Bandits, Reinforcement Learning theory",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2023-02-01",
+      "endDate": "2026-02-01",
+      "score": ""
     }
   ],
   "awards": [

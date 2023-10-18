@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Theory of Active Learning: A summary"
+title: Theory of Active Learning
 date: 2023-10-18 09:56:00-0400
-description: an example of a blog post with bibliography
+description: A survey and open problems
 tags: formatting bib
 categories: sample-posts
 giscus_comments: true

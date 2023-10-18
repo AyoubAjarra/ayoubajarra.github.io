@@ -3,7 +3,7 @@ layout: post
 title: Curriculum Learning
 date: 2023-07-04 08:57:00-0400
 description: Test
-tags: "Reinforcement Learning" "Theory"
+tags: "Reinforcement Learning" 
 categories: sample-posts
 giscus_comments: true
 related_posts: false

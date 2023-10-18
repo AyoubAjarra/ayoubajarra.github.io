@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with jupyter notebook
+title: Curriculum Learning
 date: 2023-07-04 08:57:00-0400
 description: Test
 tags: formatting jupyter

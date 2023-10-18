@@ -1,7 +1,9 @@
             {%- if site.email -%}
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope fa-2xs"></i></a>
             {% endif %}
+            {%- if site.cv -%}
             <a href="assets/pdf/Ayoub_Ajarra.pdf" title="cv"><i class="ai ai-cv ai fa-2xs"></i></a>
+            {% endif %}
             {%- if site.whatsapp_number -%}
             <a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp"><i class="fab fa-whatsapp"></i></a>
             {% endif %}

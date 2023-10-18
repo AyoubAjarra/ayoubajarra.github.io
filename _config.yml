@@ -104,8 +104,8 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  "I enjoy sharing ideas with people and also mentoring newcomers who are excited to learn about my field,  
-  if that describes you, please feel free to reach out to me via ajarra.ayoub@gmail.com with any questions or for general guidance. I will always respond."
+  I enjoy sharing ideas with people and also mentoring newcomers who are excited to learn about my field,  
+  if that describes you, please feel free to reach out to me via ajarra.ayoub@gmail.com with any questions or for general guidance. I will always respond.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

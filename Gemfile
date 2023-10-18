@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem "webrick"
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'

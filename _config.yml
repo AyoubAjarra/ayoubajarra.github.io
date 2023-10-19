@@ -164,6 +164,11 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
+  rltheory:
+  defaults:
+    layout: rl_theory
+  output: true
+  permalink: /rl_theory/:path/
   news:
     defaults:
       layout: post

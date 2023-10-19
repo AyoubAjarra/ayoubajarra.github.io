@@ -9,7 +9,4 @@ children:
     - permalink: "/rltheory/"
     - title: Learning theory
     - permalink: "/learningtheory/"
-
 ---
-
-Test test etssttstststst

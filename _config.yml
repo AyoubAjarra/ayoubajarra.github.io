@@ -164,7 +164,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  readingroups:
+  readingroup:
   output: true
   news:
     defaults:

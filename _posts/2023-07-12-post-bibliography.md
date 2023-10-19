@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Theory of Active Learning
+comments: true
 date: 2023-10-18 09:56:00-0400
 description: A survey and open problems
 tags: formatting bib

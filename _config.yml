@@ -165,10 +165,7 @@ external_sources:
 
 collections:
   readingroups:
-  defaults:
-    layout: rl_theory
   output: true
-  permalink: /rl_theory/:path/
   news:
     defaults:
       layout: post

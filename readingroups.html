@@ -1,0 +1,10 @@
+---
+layout: page
+title: Reading groups
+---
+
+{% for reading_group in site.readingroups %}
+<div class="reading_group"></div>
+    <h2><a href="{{reading_group.url}}">{{reading_group.title}}</a></h2>
+</div>
+{% endfor %}

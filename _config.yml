@@ -164,8 +164,6 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  readingroups:
-  output: true
   news:
     defaults:
       layout: post

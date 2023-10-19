@@ -164,7 +164,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  rltheory:
+  readingroups:
   defaults:
     layout: rl_theory
   output: true

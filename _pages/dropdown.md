@@ -6,7 +6,7 @@ nav_order: 7
 dropdown: true
 children:
     - title: RL theory
-    - permalink: /page/
+    - permalink: /about/
     - title: Learning theory
     - permalink: /learningtheory/
 ---

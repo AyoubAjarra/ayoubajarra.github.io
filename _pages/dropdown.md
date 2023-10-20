@@ -7,8 +7,6 @@ dropdown: true
 children:
     - title: RL theory
     - permalink: /rltheory/
-    children:
-    - title: test
     - title: Learning theory
     - permalink: /learningtheory/
 ---

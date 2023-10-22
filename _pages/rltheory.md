@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reinforcement Learning Theory Reading Group
+img: /assets/img/inria_background.jpg
 permalink: /rltheory/
 description: This site is under construction. Please have a look at the other projects and tune in later again.
 ---
@@ -9,11 +10,11 @@ description: This site is under construction. Please have a look at the other pr
 
 Welcome to the Reinforcement Learning Theory Reading Group at Scool, Inria Lille.
 
-Who: Everyone is welcome.
+- Who: Everyone is welcome.
 
-When: Every Thursday, 2:00-3:00 UTC +2 (subject to micro-adjustments which will be displayed if any), (If you want to attend, but the time does not suit you, please let me know)
+- When: Every Thursday, 2:00-3:00 UTC +2 (subject to micro-adjustments which will be displayed if any), (If you want to attend, but the time does not suit you, please let me know)
 
-Where: Batiment A, Salle A00.
+- Where: Batiment A, Salle A00.
 
 Assumed Background: Basics in Reinforcement Learning, Basics in Learning Theory and Information Theory.
 

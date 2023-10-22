@@ -5,9 +5,10 @@ nav: true
 nav_order: 7
 dropdown: true
 children:
-    - title: RL theory
+    - title: RL Theory
+    - path: "_pages/rltheory.md"
     - permalink: /rltheory/
-    - title: Learning theory
+    - title: Learning Theory
     - permalink: /learningtheory/
 ---
 

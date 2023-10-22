@@ -5,7 +5,7 @@ permalink: /rltheory/
 description: This site is under construction. Please have a look at the other projects and tune in later again.
 ---
 
-# General information:
+# *** General information: ***
 
 Welcome to the Reinforcement Learning Theory Reading Group at Scool, Inria Lille.
 

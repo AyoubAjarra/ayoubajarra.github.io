@@ -27,11 +27,12 @@ PhD Student at Scool.
 
 # ***Scheduled planning:***
 
-| Title                                    | Topic | Link | Presenter | Location  | Date               | Materials              |
-|------------------------------------------|-------|------|-----------|-----------|--------------------|------------------------|
-| General introduction and open discussion |       |      | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
-|                                          |       |      | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
-|                                          |       |      | Ayoub     | Salle A00 | Thur, Nov 16, 2023 | Slides Video Recording |
+| Title                                                                           | Topic                  | Link | Presenter | Location  | Date               | Materials              |
+|---------------------------------------------------------------------------------|------------------------|------|-----------|-----------|--------------------|------------------------|
+| General introduction and open discussion                                        | General                |      | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
+| On the complexity of adversarial decision making                                | Decision Making Theory |      | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
+| Unifying PAC and Regret: Uniform PAC bounds for episodic Reinforcement Learning | RL theory              |      | Ayoub     | Salle A00 | Thur, Nov 16, 2023 | Slides Video Recording |
+
 
 # ***Contact***
 

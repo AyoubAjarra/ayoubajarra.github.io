@@ -265,7 +265,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['Learning Theory', 'Reinforcement Learning', 'Active Learning', 'Model-based RL', 'Information theory','Bandits'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+#display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

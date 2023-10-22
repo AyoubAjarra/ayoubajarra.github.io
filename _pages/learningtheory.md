@@ -27,7 +27,7 @@ Welcome to theLearning Theory Reading Group at Scool, Inria Lille.
 # ***Organizers:***
 
 **Debabrota Basu**
-PhD Student at Scool.
+Professor (Scool).
 
 &nbsp;
 
@@ -54,12 +54,17 @@ PhD Student at Scool.
 
 # ***Scheduled planning:***
 
-| Title                                                                           | Topic                  | Link | Presenter | Location  | Date               | Materials              |
-|---------------------------------------------------------------------------------|------------------------|------|-----------|-----------|--------------------|------------------------|
-| PAC learning & ERM                                        | General                |      | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
-| On the complexity of adversarial decision making                                | Decision Making Theory | [Link](https://arxiv.org/abs/2206.13063)     | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
-| Unifying PAC and Regret: Uniform PAC bounds for episodic Reinforcement Learning | RL theory              |  [Link](https://arxiv.org/abs/1703.07710)    | Ayoub     | Salle A00 | Thur, Nov 16, 2023 | Slides Video Recording |
-
+| Title                                            | Presenter | Location  | Date               | Materials              |
+|--------------------------------------------------|-----------|-----------|--------------------|------------------------|
+| PAC learning & ERM                               | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
+| Rademacher Complexity                            | Cyrille   | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
+| VC dimension & Suprema of empirical processes    |           |           |                    |                        |
+| Applications to multivariate mean estimate       |           |           |                    |                        |
+| Stability                                        |           |           |                    |                        |
+| PAC-Bayes                                        |           |           |                    |                        |
+| Littlestone dimension and Online learning theory |           |           |                    |                        |
+| Double descent, Neural Tangent Kernel            |           |           |                    |                        |
+| Universal learning                               |           |           |                    |                        |
 &nbsp;
 
 # ***Contact***

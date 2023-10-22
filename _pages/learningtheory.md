@@ -42,13 +42,13 @@ Professor (Scool).
 
 ### Possible reading materials for future:
 
-1. [Foundations of Machine Learning by  Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar:](https://cs.nyu.edu/~mohri/mlbook/)
+1. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 
-2. Stability and Generalization: https://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf
+2. [Stability and Generalization](https://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)
 
-3. [Learning Abound: Quickly When Irrelevant  Attributes A NewL inear-threshold Algorithm by N. Littlestone](https://link.springer.com/article/10.1007/BF00116827?LI=true).
+3. [Learning Abound: Quickly When Irrelevant  Attributes A New Linear-threshold Algorithm](https://link.springer.com/article/10.1007/BF00116827?LI=true).
 
-4. [Average-Case Information Complexity of Learning by Ido Nachum and Amir Yehudayoff](https://proceedings.mlr.press/v98/nachum19a/nachum19a.pdf)
+4. [Average-Case Information Complexity of Learning](https://proceedings.mlr.press/v98/nachum19a/nachum19a.pdf)
 
 &nbsp;
 

@@ -26,3 +26,12 @@ Welcome to the Reinforcement Learning Theory Reading Group at Scool, Inria Lille
 PhD Student at Scool.
 
 # ***Scheduled planning:***
+
+
+
+# ***Contact***
+
+
+If you are interested in presenting your work in the reading group, please reach out to one of the organizers listed above.
+
+

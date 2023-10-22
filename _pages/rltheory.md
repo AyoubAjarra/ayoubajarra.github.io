@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Reinforcement Learning Theory Reading Group
-image: /assets/img/inria_background.jpg
+image:
+  background: /assets/img/inria_background.jpg
 permalink: /rltheory/
 description: This is the official website for Scool RL theory reading group.
 ---

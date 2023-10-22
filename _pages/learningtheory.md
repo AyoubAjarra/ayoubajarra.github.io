@@ -65,6 +65,7 @@ Professor (Scool).
 | Littlestone dimension and Online learning theory |           |           |                    |                        |
 | Double descent, Neural Tangent Kernel            |           |           |                    |                        |
 | Universal learning                               |           |           |                    |                        |
+
 &nbsp;
 
 # ***Contact***

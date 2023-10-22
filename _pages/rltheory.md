@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Reinforcement Learning Theory Reading Group]{color="blue"}
+title: Reinforcement Learning Theory Reading Group
 image: /assets/img/inria_background.jpg
 permalink: /rltheory/
 description: This is the official website for Scool RL theory reading group.
@@ -27,7 +27,11 @@ PhD Student at Scool.
 
 # ***Scheduled planning:***
 
-
+| Title                                    | Topic | Link | Presenter | Location  | Date               | Materials              |
+|------------------------------------------|-------|------|-----------|-----------|--------------------|------------------------|
+| General introduction and open discussion |       |      | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
+|                                          |       |      | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
+|                                          |       |      | Ayoub     | Salle A00 | Thur, Nov 16, 2023 | Slides Video Recording |
 
 # ***Contact***
 

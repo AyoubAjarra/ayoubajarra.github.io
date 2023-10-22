@@ -6,6 +6,9 @@ permalink: /rltheory/
 description: This is the official website for Scool RL theory reading group.
 ---
 
+&nbsp;
+
+
 # ***General information:***
 
 Welcome to the Reinforcement Learning Theory Reading Group at Scool, Inria Lille.
@@ -38,6 +41,7 @@ PhD Student at Scool.
 | On the complexity of adversarial decision making                                | Decision Making Theory | [Link](https://arxiv.org/abs/2206.13063)     | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
 | Unifying PAC and Regret: Uniform PAC bounds for episodic Reinforcement Learning | RL theory              |  [Link](https://arxiv.org/abs/1703.07710)    | Ayoub     | Salle A00 | Thur, Nov 16, 2023 | Slides Video Recording |
 
+&nbsp;
 
 # ***Contact***
 

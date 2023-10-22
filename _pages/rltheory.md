@@ -24,3 +24,5 @@ Welcome to the Reinforcement Learning Theory Reading Group at Scool, Inria Lille
 
 **Ayoub Ajarra.**
 PhD Student at Scool.
+
+# ***Scheduled planning:***

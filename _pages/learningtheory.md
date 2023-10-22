@@ -18,8 +18,6 @@ Welcome to theLearning Theory Reading Group at Scool, Inria Lille.
 
 - *Where:* Batiment A, Salle A00.
 
-- *Assumed Background:* Basics in Reinforcement Learning, Basics in Learning Theory and Information Theory.
-
 - *Operation mode:* Discussing papers. Some papers may go out of the scope of RL and we may include topics in a much broader sense.
 
 &nbsp;  

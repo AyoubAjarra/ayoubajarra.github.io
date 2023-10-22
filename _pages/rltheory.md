@@ -20,10 +20,16 @@ Welcome to the Reinforcement Learning Theory Reading Group at Scool, Inria Lille
 
 - *Operation mode:* Discussing papers. Some papers may go out of the scope of RL and we may include topics in a much broader sense.
 
+</br>
+
+
 # ***Organizers:***
 
 **Ayoub Ajarra.**
 PhD Student at Scool.
+
+</br>
+
 
 # ***Scheduled planning:***
 

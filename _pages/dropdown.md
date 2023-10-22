@@ -8,6 +8,7 @@ children:
     - title: RL theory
       permalink: "/rltheory/"
     - title: Learning Theory
+      permalink: "/learningtheory/"
 ---
 
   

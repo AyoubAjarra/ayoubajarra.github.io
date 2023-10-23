@@ -2,7 +2,7 @@
 layout: page
 title: Learning Theory Reading Group
 permalink: /learningtheory/
-description: This site is under construction. Please have a look at the other projects and tune in later again.
+description: This is the official website for Scool Learning Theory reading group.
 ---
 
 &nbsp;

@@ -41,6 +41,7 @@ PhD Student at Scool.
 | On the complexity of adversarial decision making                                | Decision Making Theory | [Link](https://arxiv.org/abs/2206.13063)     | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
 | Unifying PAC and Regret: Uniform PAC bounds for episodic Reinforcement Learning | RL theory              |  [Link](https://arxiv.org/abs/1703.07710)    | Ayoub     | Salle A00 | Thur, Nov 16, 2023 | Slides Video Recording |
 | Exponential Hardness of Reinforcement Learning with Linear Function Approximation | RL theory              |  [Link](https://arxiv.org/pdf/2302.12940.pdf)    | Ayoub     | Salle A00 | Thur, Nov 23, 2023 | Slides Video Recording |
+| Policy Certificates: Towards Accountable Reinforcement Learning | RL theory              |  [Link](https://arxiv.org/pdf/1811.03056.pdf)    | Ayoub     | Salle A00 | Thur, Nov 30, 2023 | Slides Video Recording |
 
 &nbsp;
 

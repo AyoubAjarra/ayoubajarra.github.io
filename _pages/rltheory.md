@@ -48,7 +48,7 @@ PhD Student at Scool.
 # ***Contact***
 
 
-If you are interested in presenting your work in the reading group, please reach out to one of the organizers listed above.
+If you are interested in sharing your work wuth our reading group, please reach out to one of the organizers listed above.
 
 
 <img src="/assets/img/inria_background.jpg" width="600">

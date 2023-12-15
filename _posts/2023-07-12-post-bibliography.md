@@ -10,4 +10,11 @@ giscus_comments: true
 related_posts: false
 related_publications: einstein1950meaning, einstein1905movement
 ---
-This post shows how to add bibliography to simple blog posts. If you would like something more academic, check the [distill style post]({% post_url 2018-12-22-distill %}).
+In this blog, I’ll discuss the motivation behind active learning, the missed link between old approaches and new ones with some illustration to demystify the secret behind active learning success.
+
+# Why active learning?
+
+# WHen do nactive learning beats passive learning?
+
+
+# A sea of information complexities:

@@ -14,7 +14,7 @@ In this blog, I’ll discuss the motivation behind active learning, the missed l
 
 # Why active learning?
 
-# WHen do nactive learning beats passive learning?
+# When do nactive learning beats passive learning?
 
 
 # A sea of information complexities:

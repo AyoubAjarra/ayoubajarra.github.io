@@ -123,7 +123,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Ayoub's blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Blog page under construction. Please have a look at the other projects and tune in later again.
+blog_description: Blog's pages under construction. Please have a look at the other projects and tune in later again.
 permalink: /blog/:year/:title/
 
 # Pagination

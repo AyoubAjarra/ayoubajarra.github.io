@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ayoubajarra.github.io/sitemap.xml

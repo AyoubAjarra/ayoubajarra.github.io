@@ -54,9 +54,9 @@ Professor (Scool).
 
 | Title                                            | Presenter | Location  | Date               | Materials              |
 |--------------------------------------------------|-----------|-----------|--------------------|------------------------|
-| PAC learning & ERM                               | Ayoub     | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
-| Rademacher Complexity                            | Cyrille   | Salle A00 | Thur, Nov 09, 2023 | Slides Video Recording |
-| VC dimension & Suprema of empirical processes    |           |           |                    |                        |
+| PAC learning & ERM                               | Ayoub     | Salle A00 | Thur, Nov 09       | Slides Video Recording |
+| Rademacher Complexity                            | Cyrille   | Salle A00 | Thur, Nov 09       | Slides Video Recording |
+| VC dimension & Suprema of empirical processes    | Ayoub     | Salle A00 | Wed, Feb 06        |                        |
 | Applications to multivariate mean estimate       |           |           |                    |                        |
 | Stability                                        |           |           |                    |                        |
 | PAC-Bayes                                        |           |           |                    |                        |

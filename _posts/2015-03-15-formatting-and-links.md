@@ -16,7 +16,8 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     <li>messenger bag</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, Model-Free Reinforcement Learning with
+the Decision-Estimation Coefficientbicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 <hr>
 

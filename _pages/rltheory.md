@@ -15,7 +15,7 @@ Welcome to the Reinforcement Learning Theory Reading Group at Scool, Inria Lille
 
 - *Who:* Everyone is welcome.
 
-- *When:* Every Thursday, 2:00-3:00 UTC +2 (subject to micro-adjustments which will be displayed if any), (If you want to attend, but the time does not suit you, please let me know)
+- *When:* Every Thursday, 11:00 UTC +2 (subject to micro-adjustments which will be displayed if any), (If you want to attend, but the time does not suit you, please let me know)
 
 - *Where:* Batiment A, Salle A00.
 

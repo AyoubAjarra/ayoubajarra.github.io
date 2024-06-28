@@ -12,6 +12,6 @@ nav_order: 1
 
 {% bibliography %}
 
-<p><a href="/assets/pdf/Pre_AFA.pdf">Download</a></p>
+<p><a href="/assets/pdf/Prep_AFA.pdf">Download</a></p>
 
 </div>

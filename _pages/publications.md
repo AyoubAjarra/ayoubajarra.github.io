@@ -10,8 +10,9 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+  {% bibliography %}
 
-<p><a href="/assets/pdf/Prep_AFA.pdf">Download</a></p>
+  <!-- Replace the download link with the direct link to the paper -->
+  <p><a href="https://arxiv.org/abs/2410.08111" target="_blank">Read the Paper</a></p>
 
 </div>

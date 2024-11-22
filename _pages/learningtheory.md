@@ -24,6 +24,8 @@ Welcome to theLearning Theory Reading Group at Scool, Inria Lille.
 
 # ***Organizers:***
 
+**Ayoub Ajarra**
+
 **Debabrota Basu**
 Professor (Scool).
 

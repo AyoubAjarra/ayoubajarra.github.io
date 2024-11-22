@@ -34,7 +34,7 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
 - **Term**: Spring 2023   
 - **Resources**:  
   - [Slides](link-to-syllabus)
-  - [Lecture Notes](link-to-lecture-notes)
+  - [Lecture Notes](/assets/pdf/Cours_IA_sante.pdf)
 
 
 

@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials and lecture notes for courses I taught.
+title: Teaching
 nav: true
 nav_order: 5
 ---
@@ -20,7 +19,7 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
 - **Resources**:  
   - [Syllabus (PDF)](link-to-syllabus)
   - [Course Website](https://debabrota-basu.github.io/course_bandit_rl.html)
-  - [Lecture 1]()
+  - [Lecture 1](/assets/M2_cours_materials/lectures/lecture1.pdf)
   - [Recitation 1]()
   - [Lecture 2]()
   - [Recitation 2]() [Solutions]()

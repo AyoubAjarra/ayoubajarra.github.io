@@ -26,7 +26,10 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
   - [Assignement 1](/assets/M2_course_materials/Assignement1/Assignement_1.pdf)
 
 
-*Some materials for this course were kindly adapted from Doina Precup's course and Sarath Chandar's course. Homework 2 is based on materials from Sarath Chandar's course. Grateful acknowledgment to the original creators.*
+
+
+*Some materials for this course were kindly adapted from Doina Precup's course, Sarath Chandar's course and other teaching materials. Homework 2 is based on materials from Sarath Chandar's course. Grateful acknowledgment to the original creators.*
+
 ---
 
 ##  Past Courses

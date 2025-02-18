@@ -24,6 +24,8 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
   - [Lecture 2](/assets/M2_course_materials/lectures/Lecture2.pdf)
   - [Recitation 2](/assets/M2_course_materials/Practical_session/M2ULillle_session2.ipynb) [Solutions](/assets/M2_course_materials/Practical_session/Soluce_M2ULillle_session2.ipynb)
   - [Assignement 1](/assets/M2_course_materials/Assignement1/Assignement_1.pdf)
+  - [Lecture 3](/assets/M2_course_materials/lectures/Lecture3.pdf)
+  - [Recitation 3](/assets/M2_course_materials/Practical_session/M2ULillle_session3.ipynb) 
 
 
 

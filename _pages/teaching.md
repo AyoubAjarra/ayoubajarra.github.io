@@ -12,6 +12,17 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
 
 ##  Current Courses
 
+#### UFR3S - Médecine, Université de Lille: [Introduction to Deep Learning & Applications in Healthcare](link-to-course-page-or-resource)
+- **Term**: Spring 2025  
+- **Resources**:  
+  - [Slides](/assets/pdf/Lecture_DU_santé.pdf)
+  - [Lecture Notes](link-to-lecture-notes)
+
+
+---
+
+##  Past Courses
+
 #### Masters of Data Science, Université de Lille and Centrale Lille: [Sequential Decision Making](https://debabrota-basu.github.io/course_bandit_rl.html)
 - **Term**: Fall 2024  
 - **Lecturers**: Debabrota Basu, Riad Akrour, Ayoub Ajarra
@@ -32,12 +43,9 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
 
 *Some materials for this course were kindly adapted from Doina Precup's course, Sarath Chandar's course and other teaching materials. Homework 2 is based on materials from Sarath Chandar's course. Grateful acknowledgment to the original creators.*
 
----
-
-##  Past Courses
 
 #### UFR3S - Médecine, Université de Lille: [Introduction to Deep Learning & Applications in Healthcare](link-to-course-page-or-resource)
-- **Term**: Spring 2023   
+- **Term**: Spring 2024   
 - **Resources**:  
   - [Slides](/assets/pdf/Cours_IA_sante.pdf)
   - [Lecture Notes](link-to-lecture-notes)

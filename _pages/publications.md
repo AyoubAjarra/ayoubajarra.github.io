@@ -23,11 +23,11 @@ nav_order: 1
 
 ### 🔹 2025
 
--  Workshop on Algorithmic Fairness, EWAF 2025.
+-  Workshop on Algorithmic Fairness, EWAF 2025, Eindhoven, The Netherlands.
 
 ### 🔹 2024
 
--  Workshop on Regulatable ML , NeurIPS2024.
+-  Workshop on Regulatable ML , NeurIPS2024, Vancouver, Canada.
 -  Scool Seminar, Inria Lille, France.
 
 ### 🔹 2023

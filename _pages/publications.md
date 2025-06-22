@@ -13,16 +13,8 @@ nav_order: 1
   {% bibliography %}
 
   <!-- Replace the download link with the direct link to the paper -->
-  <p><a href="https://arxiv.org/abs/blabla" target="_blank">Read the Paper</a></p>
+  <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33682" target="_blank">Read the Paper</a></p>
 
-  <p>
-    <strong>Primary version:</strong>
-    Presented at the
-    <a href="https://regulatableml.github.io/#organizers" target="_blank"> Neurips Workshop on Regulatable ML 2024</a>,
-    <a href="https://www.lix.polytechnique.fr/ethicalai/presentations/ayoub-ajarra/" target="_blank">Comete Ethical AI Workshop</a>.
-    Published in
-    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33682" target="_blank">Proc. of AAAI 2025</a>.
-  </p>
 
 </div>
 

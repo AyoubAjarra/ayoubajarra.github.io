@@ -2,18 +2,15 @@
 layout: page
 permalink: /publications/
 title: Publications
-#description: Preprints under progress, please come back later.
 nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
 <div class="publications">
 
   {% bibliography %}
 
-  <!-- Replace the download link with the direct link to the paper -->
-  <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33682" target="_blank">Read the Paper</a></p>
+  <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33682" target="_blank">PDF</a></p>
 
 
 </div>

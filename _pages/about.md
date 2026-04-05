@@ -9,8 +9,8 @@ profile:
   image: Jean_Paul_Laurent.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: ayoub.ajarra@inria.fr</p>
-    <p>Inria Lille, Scool team</p>
+    <p>ayoub.ajarra@inria.fr</p>
+    <p>Inria, Scool team</p>
     <p>Lille, France</p>
 
 news: false # includes a list of news items

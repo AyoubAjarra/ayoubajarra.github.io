@@ -1,0 +1,20 @@
+<div class="publication">
+
+  {% if entry.abbr %}
+    <span class="conf-badge">{{ entry.abbr }}</span>
+  {% endif %}
+
+  <span class="title">{{ entry.title }}</span><br>
+
+  <span class="authors">{{ entry.author }}</span><br>
+
+  <span class="venue">
+    {{ entry.booktitle }} ({{ entry.year }})
+  </span>
+
+  {% if entry.pdf %}
+    <a href="{{ entry.pdf }}" target="_blank">[PDF]</a>
+  {% endif %}
+
+</div>
+<br>

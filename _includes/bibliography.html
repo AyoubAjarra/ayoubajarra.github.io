@@ -1,0 +1,30 @@
+{% for entry in entries %}
+  <div class="publication">
+
+    <!-- Conference badge -->
+    {% if entry.abbr %}
+      <span class="conf-badge">{{ entry.abbr }}</span>
+    {% endif %}
+
+    <!-- Title -->
+    <strong>{{ entry.title }}</strong><br>
+
+    <!-- Authors -->
+    <span class="authors">
+      {{ entry.author }}
+    </span><br>
+
+    <!-- Venue + year -->
+    <span class="venue">
+      {{ entry.booktitle }} ({{ entry.year }})
+    </span>
+
+    <!-- Links -->
+    {% if entry.pdf %}
+      <a href="{{ entry.pdf }}" target="_blank">[PDF]</a>
+    {% endif %}
+
+  </div>
+
+  <br>
+{% endfor %}

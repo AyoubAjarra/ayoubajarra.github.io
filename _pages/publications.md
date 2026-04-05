@@ -1,38 +1,52 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+#title: Publications
 nav: true
 nav_order: 1
+pretty_title: Research
 ---
+
 
 <div class="publications">
 
-  {% bibliography %}
+  <h2>Publications</h2>
+  {% bibliography --query @*[type!=preprint] %}
 
-  <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33682" target="_blank">PDF</a></p>
-
+  <h2 style="margin-top: 2rem;">Preprints</h2>
+  {% bibliography --query @*[type=preprint] %}
 
 </div>
 
-## Invited Talks and Posters
-
-### 🔹 2025
-
--  Workshop on Algorithmic Fairness, EWAF 2025, Eindhoven, The Netherlands.
-
-### 🔹 2024
-
--  Workshop on Regulatable ML , NeurIPS2024, Vancouver, Canada.
--  Scool Seminar, Inria Lille, France.
-
-### 🔹 2023
-
--  Scool Seminar, Inria Lille, France.
--  Comete Ethical AI Workshop, LIX, Ecole Polytechnique, France. 
 
 
-## Service
+<h2 style="margin-top:2rem;">Invited Talks and Posters</h2>
 
-- Reviewer for ICML 2023, 2024
-- Reviewer for NeurIPS 2025
+<div class="talks">
+
+  <p><strong>2025</strong><br>
+  Workshop on Algorithmic Fairness, EWAF 2025, Eindhoven, The Netherlands.<br>
+  </p>
+
+  <p><strong>2024</strong><br>
+  Workshop on Regulatable ML , NeurIPS2024, Vancouver, Canada.<br>
+  Scool Seminar, Inria Lille, France.
+  </p>
+
+  <p><strong>2023</strong><br>
+  Scool Seminar, Inria Lille, France.<br>
+  Comete Ethical AI Workshop, LIX, Ecole Polytechnique, France. <br>
+  Conférence sur l’Apprentissage Automatique (CaP), Université de Lille, France.
+  </p>
+
+</div>
+
+
+<h2 style="margin-top:2rem;">Reviewing Service</h2>
+
+<ul class="reviewing">
+  <li>ICML (2023, 2024, 2025)</li>
+  <li>NeurIPS (2025)</li>
+</ul>
+
+

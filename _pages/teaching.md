@@ -15,14 +15,16 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
 - **Resources**:  
   - [Slides](/assets/pdf/Lecture_DU_santé__new.pdf)
   - [Lecture Notes](link-to-lecture-notes)
-
----
-
-#### [Introduction to Deep Learning & Applications in Healthcare](link-to-course-page-or-resource) --- <small> UFR3S - Médecine, Université de Lille <small> 
 - **Term**: Spring 2025  
 - **Resources**:  
   - [Slides](/assets/pdf/Lecture_DU_santé.pdf)
   - [Lecture Notes](link-to-lecture-notes)
+- **Term**: Spring 2024   
+- **Resources**:  
+  - [Slides](/assets/pdf/Cours_IA_sante.pdf)
+  - [Lecture Notes](link-to-lecture-notes)
+
+
 
 
 ---
@@ -47,13 +49,6 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
 
 *Some materials for this course were adapted from Doina Precup's course, Sarath Chandar's course and other teaching materials. Homework 2 is based on materials from Sarath Chandar's course. Grateful acknowledgment to the original creators.*
 
----
-
-#### [Introduction to Deep Learning & Applications in Healthcare](link-to-course-page-or-resource) --- <small>UFR3S - Médecine, Université de Lille<small>
-- **Term**: Spring 2024   
-- **Resources**:  
-  - [Slides](/assets/pdf/Cours_IA_sante.pdf)
-  - [Lecture Notes](link-to-lecture-notes)
 
 
 

@@ -12,15 +12,12 @@ Here, you'll find details about the courses I've taught, lecture materials, and 
 
 #### [Introduction to Deep Learning & Applications in Healthcare](link-to-course-page-or-resource) --- <small> UFR3S - Médecine, Université de Lille <small>
 - **Term**: Spring 2026
-- **Resources**:  
   - [Slides](/assets/pdf/Lecture_DU_santé__new.pdf)
   - [Lecture Notes](link-to-lecture-notes)
 - **Term**: Spring 2025  
-- **Resources**:  
   - [Slides](/assets/pdf/Lecture_DU_santé.pdf)
   - [Lecture Notes](link-to-lecture-notes)
 - **Term**: Spring 2024   
-- **Resources**:  
   - [Slides](/assets/pdf/Cours_IA_sante.pdf)
   - [Lecture Notes](link-to-lecture-notes)
 

@@ -45,7 +45,7 @@ pretty_title: Research
 <h2 style="margin-top:2rem;">Reviewing Service</h2>
 
 <ul class="reviewing">
-  <li>ICML (2023, 2024, 2025)</li>
+  <li>ICML (2023, 2024, 2025, 2026 (Gold Reviewer))</li>
   <li>NeurIPS (2025)</li>
 </ul>
 

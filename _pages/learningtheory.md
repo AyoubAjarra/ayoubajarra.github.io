@@ -2,7 +2,6 @@
 layout: page
 title: Learning Theory Reading Group
 permalink: /learningtheory/
-description: This is the official website for Scool Learning Theory reading group.
 ---
 
 &nbsp;
@@ -10,13 +9,11 @@ description: This is the official website for Scool Learning Theory reading grou
 
 # ***General information:***
 
-Welcome to theLearning Theory Reading Group at Scool, Inria Lille.
-
-- *Who:* Everyone is welcome.
+Welcome to the Learning Theory Reading Group at Scool, Inria Lille.
 
 - *When:* Every Wednesday, 2:00-3:00 UTC +2 (subject to micro-adjustments which will be displayed if any), (If you want to attend, but the time does not suit you, please let me know)
 
-- *Where:* Batiment A, Salle A00.
+- *Location:* Batiment A, Salle A00.
 
 - *Operation mode:* Discussing papers. Some papers may go out of the scope of RL and we may include topics in a much broader sense.
 
@@ -53,7 +50,7 @@ Professor (Scool).
 
 &nbsp;
 
-# ***Scheduled planning:***
+# ***Schedule:***
 
 | Title                                            | Presenter | Location  | Date               | Materials              |
 |--------------------------------------------------|-----------|-----------|--------------------|------------------------|
